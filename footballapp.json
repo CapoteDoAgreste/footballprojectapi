@@ -1,0 +1,1224 @@
+{
+    "matches": {
+        "0": {
+            "team-01": "Atlético-MG",
+            "team-02": "Athletico-PR",
+            "team-01-score": 0,
+            "team-02-score": 0,
+            "day": "07-05-2023"
+        },
+        "1": {
+            "team-01": "Cuiabá",
+            "team-02": "Internacional",
+            "team-01-score": 1,
+            "team-02-score": 0,
+            "day": "07-05-2023"
+        },
+        "2": {
+            "team-01": "Fortaleza",
+            "team-02": "Sport",
+            "team-01-score": 0,
+            "team-02-score": 0,
+            "day": "07-05-2023"
+        },
+        "3": {
+            "team-01": "Flamengo",
+            "team-02": "Palmeiras",
+            "team-01-score": 1,
+            "team-02-score": 2,
+            "day": "06-05-2023"
+        },
+        "4": {
+            "team-01": "Santos",
+            "team-02": "Bragantino",
+            "team-01-score": 1,
+            "team-02-score": 2,
+            "day": "06-05-2023"
+        },
+        "5": {
+            "team-01": "Corinthians",
+            "team-02": "Ceará",
+            "team-01-score": 1,
+            "team-02-score": 0,
+            "day": "06-05-2023"
+        },
+        "6": {
+            "team-01": "Fluminense",
+            "team-02": "América-MG",
+            "team-01-score": 2,
+            "team-02-score": 1,
+            "day": "06-05-2023"
+        },
+        "7": {
+            "team-01": "São Paulo",
+            "team-02": "Juventude",
+            "team-01-score": 0,
+            "team-02-score": 0,
+            "day": "05-05-2023"
+        },
+        "8": {
+            "team-01": "Grêmio",
+            "team-02": "Coritiba",
+            "team-01-score": 0,
+            "team-02-score": 1,
+            "day": "05-05-2023"
+        },
+        "9": {
+            "team-01": "Atlético-GO",
+            "team-02": "Vasco",
+            "team-01-score": 2,
+            "team-02-score": 2,
+            "day": "05-05-2023"
+        }
+    },
+    "players": {
+        "0": {
+            "name": "name",
+            "nickname": "nickname",
+            "occupation": "occupation",
+            "goals": "0",
+            "passes": "0",
+            "defenses": "0"
+        },
+        "1": {
+            "name": "Hulk",
+            "nickname": "Hulk",
+            "team": "Atlético-MG",
+            "occupation": "Forward",
+            "goals": "10",
+            "passes": "7",
+            "defenses": "1"
+        },
+        "2": {
+            "name": "Nathan",
+            "nickname": "Nathan",
+            "team": "Atlético-MG",
+            "occupation": "Midfielder",
+            "goals": "2",
+            "passes": "14",
+            "defenses": "5"
+        },
+        "3": {
+            "name": "Réver",
+            "nickname": "Réver",
+            "team": "Atlético-MG",
+            "occupation": "Defender",
+            "goals": "1",
+            "passes": "3",
+            "defenses": "19"
+        },
+        "4": {
+            "name": "Éverson",
+            "nickname": "Éverson",
+            "team": "Atlético-MG",
+            "occupation": "Goalkeeper",
+            "goals": "0",
+            "passes": "0",
+            "defenses": "27"
+        },
+        "5": {
+            "name": "Guga",
+            "nickname": "Guga",
+            "team": "Atlético-MG",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "2",
+            "defenses": "14"
+        },
+        "6": {
+            "name": "Réver",
+            "nickname": "Réver",
+            "team": "Atlético-MG",
+            "occupation": "Defender",
+            "goals": "1",
+            "passes": "3",
+            "defenses": "19"
+        },
+        "7": {
+            "name": "Junior Alonso",
+            "nickname": "Junior Alonso",
+            "team": "Atlético-MG",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "1",
+            "defenses": "24"
+        },
+        "8": {
+            "name": "Guilherme Arana",
+            "nickname": "Guilherme Arana",
+            "team": "Atlético-MG",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "6",
+            "defenses": "16"
+        },
+        "9": {
+            "name": "Alan Franco",
+            "nickname": "Alan Franco",
+            "team": "Atlético-MG",
+            "occupation": "Midfielder",
+            "goals": "3",
+            "passes": "10",
+            "defenses": "7"
+        },
+        "10": {
+            "name": "Santos",
+            "nickname": "Santos",
+            "team": "Athletico-PR",
+            "occupation": "Goalkeeper",
+            "goals": "0",
+            "passes": "0",
+            "defenses": "24"
+        },
+        "11": {
+            "name": "Thiago Heleno",
+            "nickname": "Thiago Heleno",
+            "team": "Athletico-PR",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "7",
+            "defenses": "16"
+        },
+        "12": {
+            "name": "Pedro Henrique",
+            "nickname": "Pedro Henrique",
+            "team": "Athletico-PR",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "1",
+            "defenses": "9"
+        },
+        "13": {
+            "name": "Abner",
+            "nickname": "Abner",
+            "team": "Athletico-PR",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "4",
+            "defenses": "16"
+        },
+        "14": {
+            "name": "Nikão",
+            "nickname": "Nikão",
+            "team": "Athletico-PR",
+            "occupation": "Midfielder",
+            "goals": "4",
+            "passes": "11",
+            "defenses": "6"
+        },
+        "15": {
+            "name": "Richard",
+            "nickname": "Richard",
+            "team": "Athletico-PR",
+            "occupation": "Midfielder",
+            "goals": "1",
+            "passes": "13",
+            "defenses": "12"
+        },
+        "16": {
+            "name": "David Terans",
+            "nickname": "David Terans",
+            "team": "Athletico-PR",
+            "occupation": "Midfielder",
+            "goals": "5",
+            "passes": "7",
+            "defenses": "6"
+        },
+        "17": {
+            "name": "Carlos Eduardo",
+            "nickname": "Carlos Eduardo",
+            "team": "Athletico-PR",
+            "occupation": "Forward",
+            "goals": "3",
+            "passes": "6",
+            "defenses": "1"
+        },
+        "18": {
+            "name": "Renato Kayzer",
+            "nickname": "Renato Kayzer",
+            "team": "Athletico-PR",
+            "occupation": "Forward",
+            "goals": "4",
+            "passes": "3",
+            "defenses": "0"
+        },
+        "19": {
+            "name": "John Doe",
+            "nickname": "JD",
+            "team": "Cuiabá",
+            "occupation": "Forward",
+            "goals": "5",
+            "passes": "10",
+            "defenses": "2"
+        },
+        "20": {
+            "name": "Jane Smith",
+            "nickname": "JS",
+            "team": "Cuiabá",
+            "occupation": "Midfielder",
+            "goals": "2",
+            "passes": "20",
+            "defenses": "5"
+        },
+        "21": {
+            "name": "Bob Johnson",
+            "nickname": "BJ",
+            "team": "Cuiabá",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "5",
+            "defenses": "15"
+        },
+        "22": {
+            "name": "Maria Gonzalez",
+            "nickname": "MG",
+            "team": "Cuiabá",
+            "occupation": "Midfielder",
+            "goals": "1",
+            "passes": "15",
+            "defenses": "3"
+        },
+        "23": {
+            "name": "Pedro Silva",
+            "nickname": "PS",
+            "team": "Cuiabá",
+            "occupation": "Forward",
+            "goals": "3",
+            "passes": "8",
+            "defenses": "1"
+        },
+        "24": {
+            "name": "Luiz Souza",
+            "nickname": "LS",
+            "team": "Cuiabá",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "7",
+            "defenses": "12"
+        },
+        "25": {
+            "name": "Amanda Santos",
+            "nickname": "AS",
+            "team": "Cuiabá",
+            "occupation": "Midfielder",
+            "goals": "3",
+            "passes": "25",
+            "defenses": "8"
+        },
+        "26": {
+            "name": "Rafael Oliveira",
+            "nickname": "RO",
+            "team": "Cuiabá",
+            "occupation": "Forward",
+            "goals": "8",
+            "passes": "6",
+            "defenses": "0"
+        },
+        "27": {
+            "name": "Bruno Alves",
+            "nickname": "BA",
+            "team": "Cuiabá",
+            "occupation": "Defender",
+            "goals": "2",
+            "passes": "10",
+            "defenses": "18"
+        },
+        "28": {
+            "name": "Fernanda Martins",
+            "nickname": "FM",
+            "team": "Cuiabá",
+            "occupation": "Midfielder",
+            "goals": "4",
+            "passes": "18",
+            "defenses": "10"
+        },
+        "29": {
+            "name": "Rodrigo Costa",
+            "nickname": "RC",
+            "team": "Cuiabá",
+            "occupation": "Defender",
+            "goals": "1",
+            "passes": "12"
+        },
+        "30": {
+            "name": "John Doe",
+            "nickname": "JD",
+            "team": "Cuiabá",
+            "occupation": "Forward",
+            "goals": "5",
+            "passes": "10",
+            "defenses": "2"
+        },
+        "31": {
+            "name": "Jane Smith",
+            "nickname": "JS",
+            "team": "Cuiabá",
+            "occupation": "Midfielder",
+            "goals": "2",
+            "passes": "20",
+            "defenses": "5"
+        },
+        "32": {
+            "name": "Bob Johnson",
+            "nickname": "BJ",
+            "team": "Cuiabá",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "5",
+            "defenses": "15"
+        },
+        "33": {
+            "name": "Maria Gonzalez",
+            "nickname": "MG",
+            "team": "Cuiabá",
+            "occupation": "Midfielder",
+            "goals": "1",
+            "passes": "15",
+            "defenses": "3"
+        },
+        "34": {
+            "name": "Pedro Silva",
+            "nickname": "PS",
+            "team": "Cuiabá",
+            "occupation": "Forward",
+            "goals": "3",
+            "passes": "8",
+            "defenses": "1"
+        },
+        "35": {
+            "name": "Luiz Souza",
+            "nickname": "LS",
+            "team": "Cuiabá",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "7",
+            "defenses": "12"
+        },
+        "36": {
+            "name": "Amanda Santos",
+            "nickname": "AS",
+            "team": "Cuiabá",
+            "occupation": "Midfielder",
+            "goals": "3",
+            "passes": "25",
+            "defenses": "8"
+        },
+        "37": {
+            "name": "Rafael Oliveira",
+            "nickname": "RO",
+            "team": "Cuiabá",
+            "occupation": "Forward",
+            "goals": "8",
+            "passes": "6",
+            "defenses": "0"
+        },
+        "38": {
+            "name": "Bruno Alves",
+            "nickname": "BA",
+            "team": "Cuiabá",
+            "occupation": "Defender",
+            "goals": "2",
+            "passes": "10",
+            "defenses": "18"
+        },
+        "39": {
+            "name": "Fernanda Martins",
+            "nickname": "FM",
+            "team": "Cuiabá",
+            "occupation": "Midfielder",
+            "goals": "4",
+            "passes": "18",
+            "defenses": "10"
+        },
+        "40": {
+            "name": "Rodrigo Costa",
+            "nickname": "RC",
+            "team": "Cuiabá",
+            "occupation": "Defender",
+            "goals": "1",
+            "passes": "12",
+            "defenses": "8"
+        },
+        "41": {
+            "name": "Wellington Paulista",
+            "nickname": "WP",
+            "team": "Fortaleza",
+            "occupation": "Forward",
+            "goals": "10",
+            "passes": "5",
+            "defenses": "0"
+        },
+        "42": {
+            "name": "David",
+            "nickname": "David",
+            "team": "Fortaleza",
+            "occupation": "Forward",
+            "goals": "5",
+            "passes": "8",
+            "defenses": "0"
+        },
+        "43": {
+            "name": "Robson",
+            "nickname": "Robson",
+            "team": "Fortaleza",
+            "occupation": "Midfielder",
+            "goals": "2",
+            "passes": "15",
+            "defenses": "5"
+        },
+        "44": {
+            "name": "Matheus Jussa",
+            "nickname": "MJ",
+            "team": "Fortaleza",
+            "occupation": "Midfielder",
+            "goals": "0",
+            "passes": "10",
+            "defenses": "12"
+        },
+        "45": {
+            "name": "Tinga",
+            "nickname": "Tinga",
+            "team": "Fortaleza",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "5",
+            "defenses": "20"
+        },
+        "46": {
+            "name": "Felipe",
+            "nickname": "Felipe",
+            "team": "Fortaleza",
+            "occupation": "Defender",
+            "goals": "1",
+            "passes": "8",
+            "defenses": "16"
+        },
+        "47": {
+            "name": "Yago Pikachu",
+            "nickname": "YP",
+            "team": "Fortaleza",
+            "occupation": "Midfielder",
+            "goals": "3",
+            "passes": "12",
+            "defenses": "7"
+        },
+        "48": {
+            "name": "Lucas Lima",
+            "nickname": "LL",
+            "team": "Fortaleza",
+            "occupation": "Midfielder",
+            "goals": "2",
+            "passes": "18",
+            "defenses": "6"
+        },
+        "49": {
+            "name": "Jackson",
+            "nickname": "Jackson",
+            "team": "Fortaleza",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "6",
+            "defenses": "18"
+        },
+        "50": {
+            "name": "Gustavo Blanco",
+            "nickname": "GB",
+            "team": "Fortaleza",
+            "occupation": "Midfielder",
+            "goals": "1",
+            "passes": "10",
+            "defenses": "8"
+        },
+        "51": {
+            "name": "Felipe Alves",
+            "nickname": "FA",
+            "team": "Fortaleza",
+            "occupation": "Goalkeeper",
+            "goals": "0",
+            "passes": "2",
+            "defenses": "0"
+        },
+        "60": {
+            "name": "Mikael",
+            "nickname": "Mikael",
+            "team": "Sport",
+            "occupation": "Forward",
+            "goals": "8",
+            "passes": "3",
+            "defenses": "0"
+        },
+        "61": {
+            "name": "Thiago Lopes",
+            "nickname": "TL",
+            "team": "Sport",
+            "occupation": "Midfielder",
+            "goals": "3",
+            "passes": "7",
+            "defenses": "2"
+        },
+        "62": {
+            "name": "Patric",
+            "nickname": "Patric",
+            "team": "Sport",
+            "occupation": "Defender",
+            "goals": "1",
+            "passes": "12",
+            "defenses": "20"
+        },
+        "63": {
+            "name": "Everaldo",
+            "nickname": "Everaldo",
+            "team": "Sport",
+            "occupation": "Forward",
+            "goals": "2",
+            "passes": "5",
+            "defenses": "0"
+        },
+        "64": {
+            "name": "Thiago Neves",
+            "nickname": "TN",
+            "team": "Sport",
+            "occupation": "Midfielder",
+            "goals": "4",
+            "passes": "10",
+            "defenses": "2"
+        },
+        "65": {
+            "name": "Sabino",
+            "nickname": "Sabino",
+            "team": "Sport",
+            "occupation": "Defender",
+            "goals": "1",
+            "passes": "6",
+            "defenses": "15"
+        },
+        "66": {
+            "name": "Marcão",
+            "nickname": "Marcão",
+            "team": "Sport",
+            "occupation": "Midfielder",
+            "goals": "0",
+            "passes": "8",
+            "defenses": "4"
+        },
+        "67": {
+            "name": "André",
+            "nickname": "André",
+            "team": "Sport",
+            "occupation": "Forward",
+            "goals": "3",
+            "passes": "5",
+            "defenses": "0"
+        },
+        "68": {
+            "name": "Ricardinho",
+            "nickname": "Ricardinho",
+            "team": "Sport",
+            "occupation": "Midfielder",
+            "goals": "1",
+            "passes": "8",
+            "defenses": "4"
+        },
+        "69": {
+            "name": "Iago Maidana",
+            "nickname": "IM",
+            "team": "Sport",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "4",
+            "defenses": "18"
+        },
+        "70": {
+            "name": "Maílson",
+            "nickname": "Maílson",
+            "team": "Sport",
+            "occupation": "Goalkeeper",
+            "goals": "0",
+            "passes": "2",
+            "defenses": "0"
+        },
+        "71": {
+            "name": "Diego Alves",
+            "nickname": "Diego Alves",
+            "team": "Flamengo",
+            "occupation": "Goalkeeper",
+            "goals": "0",
+            "passes": "200",
+            "defenses": "0"
+        },
+        "72": {
+            "name": "Rafinha",
+            "nickname": "Rafinha",
+            "team": "Flamengo",
+            "occupation": "Defender",
+            "goals": "1",
+            "passes": "120",
+            "defenses": "20"
+        },
+        "73": {
+            "name": "Willian Arão",
+            "nickname": "Arão",
+            "team": "Flamengo",
+            "occupation": "Midfielder",
+            "goals": "2",
+            "passes": "500",
+            "defenses": "50"
+        },
+        "74": {
+            "name": "Filipe Luís",
+            "nickname": "Filipe Luís",
+            "team": "Flamengo",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "400",
+            "defenses": "80"
+        },
+        "75": {
+            "name": "Bruno Henrique",
+            "nickname": "BH",
+            "team": "Flamengo",
+            "occupation": "Forward",
+            "goals": "7",
+            "passes": "300",
+            "defenses": "10"
+        },
+        "76": {
+            "name": "Arrascaeta",
+            "nickname": "Arrascaeta",
+            "team": "Flamengo",
+            "occupation": "Midfielder",
+            "goals": "5",
+            "passes": "400",
+            "defenses": "10"
+        },
+        "77": {
+            "name": "Everton Ribeiro",
+            "nickname": "ER",
+            "team": "Flamengo",
+            "occupation": "Midfielder",
+            "goals": "3",
+            "passes": "400",
+            "defenses": "30"
+        },
+        "78": {
+            "name": "Pedro",
+            "nickname": "Pedro",
+            "team": "Flamengo",
+            "occupation": "Forward",
+            "goals": "9",
+            "passes": "200",
+            "defenses": "5"
+        },
+        "79": {
+            "name": "Gérson",
+            "nickname": "Gérson",
+            "team": "Flamengo",
+            "occupation": "Midfielder",
+            "goals": "1",
+            "passes": "450",
+            "defenses": "40"
+        },
+        "80": {
+            "name": "Diego Ribas",
+            "nickname": "Diego",
+            "team": "Flamengo",
+            "occupation": "Midfielder",
+            "goals": "1",
+            "passes": "400",
+            "defenses": "25"
+        },
+        "81": {
+            "name": "Gabriel Barbosa",
+            "nickname": "Gabigol",
+            "team": "Flamengo",
+            "occupation": "Forward",
+            "goals": "10"
+        },
+        "82": {
+            "name": "Weverton",
+            "nickname": "Weverton",
+            "team": "Palmeiras",
+            "occupation": "Goalkeeper",
+            "goals": "0",
+            "passes": "120",
+            "defenses": "0"
+        },
+        "83": {
+            "name": "Mayke",
+            "nickname": "Mayke",
+            "team": "Palmeiras",
+            "occupation": "Defender",
+            "goals": "1",
+            "passes": "100",
+            "defenses": "15"
+        },
+        "84": {
+            "name": "Gustavo Gómez",
+            "nickname": "Gómez",
+            "team": "Palmeiras",
+            "occupation": "Defender",
+            "goals": "2",
+            "passes": "300",
+            "defenses": "70"
+        },
+        "85": {
+            "name": "Luan",
+            "nickname": "Luan",
+            "team": "Palmeiras",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "200",
+            "defenses": "40"
+        },
+        "86": {
+            "name": "Matías Viña",
+            "nickname": "Viña",
+            "team": "Palmeiras",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "300",
+            "defenses": "50"
+        },
+        "87": {
+            "name": "Danilo",
+            "nickname": "Danilo",
+            "team": "Palmeiras",
+            "occupation": "Midfielder",
+            "goals": "2",
+            "passes": "200",
+            "defenses": "30"
+        },
+        "88": {
+            "name": "Felipe Melo",
+            "nickname": "Melo",
+            "team": "Palmeiras",
+            "occupation": "Midfielder",
+            "goals": "1",
+            "passes": "400",
+            "defenses": "60"
+        },
+        "89": {
+            "name": "Raphael Veiga",
+            "nickname": "Veiga",
+            "team": "Palmeiras",
+            "occupation": "Midfielder",
+            "goals": "7",
+            "passes": "300",
+            "defenses": "20"
+        },
+        "90": {
+            "name": "Gustavo Scarpa",
+            "nickname": "Scarpa",
+            "team": "Palmeiras",
+            "occupation": "Midfielder",
+            "goals": "4",
+            "passes": "400",
+            "defenses": "25"
+        },
+        "91": {
+            "name": "Wesley",
+            "nickname": "Wesley",
+            "team": "Palmeiras",
+            "occupation": "Forward",
+            "goals": "3",
+            "passes": "100",
+            "defenses": "5"
+        },
+        "92": {
+            "name": "Rony",
+            "nickname": "Rony",
+            "team": "Palmeiras",
+            "occupation": "Forward",
+            "goals": "6",
+            "passes": "200",
+            "defenses": "0"
+        },
+        "93": {
+            "name": "João Paulo",
+            "nickname": "João Paulo",
+            "team": "Santos",
+            "occupation": "Goalkeeper",
+            "goals": "0",
+            "passes": "100",
+            "defenses": "0"
+        },
+        "94": {
+            "name": "Pará",
+            "nickname": "Pará",
+            "team": "Santos",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "200",
+            "defenses": "25"
+        },
+        "95": {
+            "name": "Kaiky",
+            "nickname": "Kaiky",
+            "team": "Santos",
+            "occupation": "Defender",
+            "goals": "1",
+            "passes": "150",
+            "defenses": "45"
+        },
+        "96": {
+            "name": "Luan Peres",
+            "nickname": "Luan Peres",
+            "team": "Santos",
+            "occupation": "Defender",
+            "goals": "0",
+            "passes": "250",
+            "defenses": "60"
+        },
+        "97": {
+            "name": "Felipe Jonatan",
+            "nickname": "Felipe Jonatan",
+            "team": "Santos",
+            "occupation": "Defender",
+            "goals": "1",
+            "passes": "180",
+            "defenses": "35"
+        },
+        "98": {
+            "name": "Jean Mota",
+            "nickname": "Jean Mota",
+            "team": "Santos",
+            "occupation": "Midfielder",
+            "goals": "3",
+            "passes": "250",
+            "defenses": "30"
+        },
+        "99": {
+            "name": "Alison",
+            "nickname": "Alison",
+            "team": "Santos",
+            "occupation": "Midfielder",
+            "goals": "0",
+            "passes": "300",
+            "defenses": "50"
+        },
+        "100": {
+            "name": "Gabriel Pirani",
+            "nickname": "Pirani",
+            "team": "Santos",
+            "occupation": "Midfielder",
+            "goals": "4",
+            "passes": "200",
+            "defenses": "10"
+        },
+        "101": {
+            "name": "Marinho",
+            "nickname": "Marinho",
+            "team": "Santos",
+            "occupation": "Forward",
+            "goals": "6",
+            "passes": "150",
+            "defenses": "5"
+        },
+        "102": {
+            "name": "Lucas Braga",
+            "nickname": "Lucas Braga",
+            "team": "Santos",
+            "occupation": "Forward",
+            "goals": "3",
+            "passes": "100",
+            "defenses": "5"
+        },
+        "103": {
+            "name": "Lucas Evangelista",
+            "nickname": "Lucas",
+            "team": "Bragantino",
+            "occupation": "midfielder",
+            "goals": "3",
+            "passes": "22",
+            "defenses": "8"
+        },
+        "104": {
+            "name": "Ytalo",
+            "nickname": "Ytalo",
+            "team": "Bragantino",
+            "occupation": "forward",
+            "goals": "12",
+            "passes": "5",
+            "defenses": "1"
+        },
+        "105": {
+            "name": "Weverton",
+            "nickname": "Weverton",
+            "team": "Bragantino",
+            "occupation": "defender",
+            "goals": "1",
+            "passes": "10",
+            "defenses": "15"
+        },
+        "106": {
+            "name": "Claudinho",
+            "nickname": "Claudinho",
+            "team": "Bragantino",
+            "occupation": "midfielder",
+            "goals": "9",
+            "passes": "17",
+            "defenses": "4"
+        },
+        "107": {
+            "name": "Luan Candido",
+            "nickname": "Luan",
+            "team": "Bragantino",
+            "occupation": "defender",
+            "goals": "0",
+            "passes": "4",
+            "defenses": "10"
+        },
+        "108": {
+            "name": "Aderlan",
+            "nickname": "Aderlan",
+            "team": "Bragantino",
+            "occupation": "defender",
+            "goals": "2",
+            "passes": "8",
+            "defenses": "12"
+        },
+        "109": {
+            "name": "Cleiton",
+            "nickname": "Cleiton",
+            "team": "Bragantino",
+            "occupation": "goalkeeper",
+            "goals": "0",
+            "passes": "23",
+            "defenses": "54"
+        },
+        "110": {
+            "name": "Alerrandro",
+            "nickname": "Alerrandro",
+            "team": "Bragantino",
+            "occupation": "forward",
+            "goals": "4",
+            "passes": "3",
+            "defenses": "0"
+        },
+        "111": {
+            "name": "Fabrício Bruno",
+            "nickname": "Fabrício",
+            "team": "Bragantino",
+            "occupation": "defender",
+            "goals": "3",
+            "passes": "12",
+            "defenses": "22"
+        },
+        "112": {
+            "name": "Pedrinho",
+            "nickname": "Pedrinho",
+            "team": "Bragantino",
+            "occupation": "midfielder",
+            "goals": "2",
+            "passes": "7",
+            "defenses": "3"
+        },
+        "113": {
+            "name": "Ramires",
+            "nickname": "Ramires",
+            "team": "Bragantino",
+            "occupation": "midfielder",
+            "goals": "1",
+            "passes": "13",
+            "defenses": "7"
+        },
+        "114": {
+            "name": "Luciano",
+            "nickname": "Luciano",
+            "team": "São Paulo",
+            "occupation": "forward",
+            "goals": "7",
+            "passes": "3",
+            "defenses": "0"
+        },
+        "115": {
+            "name": "Reinaldo",
+            "nickname": "Reinaldo",
+            "team": "São Paulo",
+            "occupation": "defender",
+            "goals": "4",
+            "passes": "10",
+            "defenses": "22"
+        },
+        "116": {
+            "name": "Daniel Alves",
+            "nickname": "Daniel Alves",
+            "team": "São Paulo",
+            "occupation": "midfielder",
+            "goals": "2",
+            "passes": "15",
+            "defenses": "5"
+        },
+        "117": {
+            "name": "Liziero",
+            "nickname": "Liziero",
+            "team": "São Paulo",
+            "occupation": "midfielder",
+            "goals": "1",
+            "passes": "8",
+            "defenses": "7"
+        },
+        "118": {
+            "name": "Arboleda",
+            "nickname": "Arboleda",
+            "team": "São Paulo",
+            "occupation": "defender",
+            "goals": "2",
+            "passes": "5",
+            "defenses": "20"
+        },
+        "119": {
+            "name": "Igor Gomes",
+            "nickname": "Igor Gomes",
+            "team": "São Paulo",
+            "occupation": "midfielder",
+            "goals": "3",
+            "passes": "10",
+            "defenses": "3"
+        },
+        "120": {
+            "name": "Tiago Volpi",
+            "nickname": "Volpi",
+            "team": "São Paulo",
+            "occupation": "goalkeeper",
+            "goals": "0",
+            "passes": "19",
+            "defenses": "42"
+        },
+        "121": {
+            "name": "Gabriel Sara",
+            "nickname": "Gabriel Sara",
+            "team": "São Paulo",
+            "occupation": "midfielder",
+            "goals": "1",
+            "passes": "7",
+            "defenses": "4"
+        },
+        "122": {
+            "name": "Miranda",
+            "nickname": "Miranda",
+            "team": "São Paulo",
+            "occupation": "defender",
+            "goals": "1",
+            "passes": "7",
+            "defenses": "18"
+        },
+        "123": {
+            "name": "Pablo",
+            "nickname": "Pablo",
+            "team": "São Paulo",
+            "occupation": "forward",
+            "goals": "5",
+            "passes": "2",
+            "defenses": "0"
+        },
+        "124": {
+            "name": "Bruno Alves",
+            "nickname": "Bruno Alves",
+            "team": "São Paulo",
+            "occupation": "defender",
+            "goals": "2",
+            "passes": "6",
+            "defenses": "19"
+        },
+        "125": {
+            "name": "Jo",
+            "nickname": "Jo",
+            "team": "Corinthians",
+            "occupation": "forward",
+            "goals": "10",
+            "passes": "3",
+            "defenses": "0"
+        },
+        "129": {
+            "name": "Fagner",
+            "nickname": "Fagner",
+            "team": "Corinthians",
+            "occupation": "defender",
+            "goals": "0",
+            "passes": "8",
+            "defenses": "18"
+        },
+        "130": {
+            "name": "Cássio",
+            "nickname": "Cássio",
+            "team": "Corinthians",
+            "occupation": "goalkeeper",
+            "goals": "0",
+            "passes": "22",
+            "defenses": "39"
+        },
+        "131": {
+            "name": "Luan",
+            "nickname": "Luan",
+            "team": "Corinthians",
+            "occupation": "midfielder",
+            "goals": "4",
+            "passes": "5",
+            "defenses": "2"
+        },
+        "132": {
+            "name": "Jô",
+            "nickname": "Jô",
+            "team": "Corinthians",
+            "occupation": "forward",
+            "goals": "3",
+            "passes": "2",
+            "defenses": "0"
+        },
+        "133": {
+            "name": "Gil",
+            "nickname": "Gil",
+            "team": "Corinthians",
+            "occupation": "defender",
+            "goals": "2",
+            "passes": "3",
+            "defenses": "24"
+        },
+        "134": {
+            "name": "Cantillo",
+            "nickname": "Cantillo",
+            "team": "Corinthians",
+            "occupation": "midfielder",
+            "goals": "1",
+            "passes": "12",
+            "defenses": "5"
+        },
+        "135": {
+            "name": "Gabriel",
+            "nickname": "Gabriel",
+            "team": "Corinthians",
+            "occupation": "midfielder",
+            "goals": "0",
+            "passes": "5",
+            "defenses": "12"
+        },
+        "136": {
+            "name": "Rómulo Otero",
+            "nickname": "Otero",
+            "team": "Corinthians",
+            "occupation": "midfielder",
+            "goals": "2",
+            "passes": "6",
+            "defenses": "1"
+        },
+        "137": {
+            "name": "Gustavo Mosquito",
+            "nickname": "Mosquito",
+            "team": "Corinthians",
+            "occupation": "forward",
+            "goals": "3",
+            "passes": "2",
+            "defenses": "1"
+        },
+        "138": {
+            "name": "Ramiro",
+            "nickname": "Ramiro",
+            "team": "Corinthians",
+            "occupation": "midfielder",
+            "goals": "0",
+            "passes": "6",
+            "defenses": "8"
+        }
+    }
+}
